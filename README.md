@@ -45,4 +45,12 @@ Single core 904.
 Multi core 2424.          
       
 Tested on iOS 16.3, Palera1n jailbreak
+                 
+How to use:           
+Save the script to filza.          
+Run it through filza.            
+Reboot your device.        
+It will show cannot find the file, you can ignore it when running script   
 
+
+Compatible with all iOS/iPadOS 15/16
