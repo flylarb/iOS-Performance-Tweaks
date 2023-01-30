@@ -41,8 +41,8 @@ Before: Kinda laggy in general usage (usable but didn't that fast on app loading
 After: still a bit lagging in general usage (but app loading is a lot faster and animations are smoother).         
 
 Geekbench score:
-Single core 919.     
-Multi core 2479.          
+Single core 927.     
+Multi core 2520.          
       
 Tested on iOS 16.3, Palera1n jailbreak
                  
